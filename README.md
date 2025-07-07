@@ -7,9 +7,9 @@
 
 ## Overview
 
-My [Ghostty](https://github.com/danielvartan/ghostty) theme. 👻
+My [Ghostty](https://ghostty.org/) theme. 👻
 
-Designed for use with [Starship](https://starship.rs/). 🚀
+Designed for use with [Starship](https://github.com/danielvartan/starship). 🚀
 
 ## Inspirations
 
