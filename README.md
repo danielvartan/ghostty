@@ -18,6 +18,6 @@ Designed for use with [Starship](https://github.com/danielvartan/starship). 🚀
 
 ## Installation
 
-1. Copy `config` to `$HOME/.config/ghostty/`.
+1. Copy `config` and the `themes` folder to `$HOME/.config/ghostty/`.
 
 That's it!
