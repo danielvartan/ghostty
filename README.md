@@ -9,7 +9,7 @@
 
 My [Ghostty](https://ghostty.org/) theme. 👻
 
-Designed for use with [Starship](https://github.com/danielvartan/starship). 🚀
+Designed for use with [Starship](https://github.com/danielvartan/starship). 🛸
 
 ## Inspirations
 
