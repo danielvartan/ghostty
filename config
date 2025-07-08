@@ -44,4 +44,6 @@
 
 font-family = "Noto Nerd Mono"
 font-size = 15
-background = #181926
+# background = #181926
+
+theme = catppuccin-macchiato.conf
