@@ -13,11 +13,13 @@ Designed for use with [Starship](https://github.com/danielvartan/starship). 🛸
 
 ## Inspirations
 
-- [Catppuccin](https://catppuccin.com/)
+- [Catppuccin](https://catppuccin.com/) (`Macchiato` variant)
 - [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 
 ## Installation
 
-1. Copy `config` and the `themes` folder to `$HOME/.config/ghostty/`.
+> For Linux! 🐧
 
-That's it!
+```bash
+git clone https://github.com/danielvartan/ghostty $HOME/.config/ghostty
+```
